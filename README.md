@@ -122,10 +122,6 @@ Transito na interseção entre análise, planejamento e desenvolvimento. Não ap
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusTeixeiraMoraes&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusTeixeiraMoraes&theme=tokyonight&hide_border=true" />
 </div>
 
