@@ -130,6 +130,8 @@ Transito na interseção entre análise, planejamento e desenvolvimento. Não ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusTeixeiraMoraes&theme=tokyonight&hide_border=true" />
 </div>
 
+> **Nota:** O histórico de contribuições não reflete o trabalho real. A maior parte dos projetos que desenvolvi ao longo dos anos foi mantida em repositórios privados ou em ambientes de clientes — fora deste perfil. O que está aqui é só o começo da migração.
+
 ---
 
 <div align="center">
